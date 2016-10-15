@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/br.com.convenio.android/br.com.convenio.android.csproj.bak
+/br.com.convenio.core/br.com.convenio.core.csproj.bak
